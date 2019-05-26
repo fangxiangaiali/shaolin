@@ -2,4 +2,4 @@ jingangjing 0
 modify jingangjin.txt edit by tt1
 modify jingangjin.txt edit by tt1
 modify jingangjin.txt edit by tt1
-modify jingangjin.txt edit by tt
+modify jingangjin.txt edit by tt edit by hot-fix
